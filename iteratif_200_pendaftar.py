@@ -260,9 +260,9 @@ prestasi.sort(key=sort_prestasi)
 afirmasi.sort(key=sort_afirmasi)
 
 # Alokasi kuota
-kuota_zonasi = 30
+kuota_zonasi = 25
 kuota_prestasi = 15
-kuota_afirmasi =5
+kuota_afirmasi = 10
 
 diterima = []
 
